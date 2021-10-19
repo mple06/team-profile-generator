@@ -33,8 +33,8 @@ You can watch a demo here!
 
 https://watch.screencastify.com/v/CJblaJ658QzCM6VKNAJ2
 
-Link to GitHub Url:
-https://mple06.github.io/professional-README-generator/
+Link to deployed application:
+https://mple06.github.io/team-profile-generator/
 
 ---
 
