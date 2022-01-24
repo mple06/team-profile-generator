@@ -50,12 +50,6 @@ If you have ideas, let me know!
 
 ---
 
-## Tests
-
-Testing was done by myself.
-
----
-
 ## Credits
 
 Credits to the standard library and Inquirer.
